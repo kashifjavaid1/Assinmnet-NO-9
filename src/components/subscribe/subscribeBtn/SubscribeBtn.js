@@ -1,6 +1,5 @@
 import React from 'react'
 import '../subscribeBtn/SubscribeBtn.css'
-
 export default function SubscribeBtn() {
     return (
         <div className='sbs mt-4'>
